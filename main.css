@@ -1,0 +1,29 @@
+body{
+    font-family: 'Space Mono', monospace;
+    background-color: #fdf9fd;
+}
+
+h1{
+    font-size: 55px;
+    line-height: 1;
+    font-weight: 400;
+}
+
+h2{
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.container{
+    width: 55%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+.Discoverfx{
+    text-shadow: 0 -2.5px #0c2ffb, 0 -5px #2cadfd, 0 2px #fb203b, 0 5px #f24bfe;
+
+}
